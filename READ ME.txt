@@ -1,0 +1,7 @@
+
+ 
+
+Each directory spawns a new thread to dig deeper.
+Each thread also calls indexer and searching threads and a file is maintained as well as a hashmap
+
+Options part is not implemented.
